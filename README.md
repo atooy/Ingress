@@ -1,9 +1,6 @@
-# Ingress Ideal Missions
+# Ingress Missions
 ## "How do you know when it's over?"  
 ## "Maybe when you feel more in love with your memories than with the person standing in front of you."
-I will never submit missions again :)   
-I don't want to give Niantic another chance to reject all my missions.  
-All missions will only appear here and will never be online.  
 
 1. [Darling, I Miss U](https://github.com/atooy/Ingress/blob/master/Mission/Darling%2C%20I%20Miss%20U.png)
 ![Darling, I Miss U](https://github.com/atooy/Ingress/blob/master/Mission/Darling%2C%20I%20Miss%20U.png)  
