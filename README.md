@@ -12,7 +12,7 @@
 ![Firework your life](https://github.com/atooy/Ingress/blob/master/Mission/Firework%20your%20life.png)  
 5. [Hello, i am kitty](https://github.com/atooy/Ingress/blob/master/Mission/Hello%2C%20i%20am%20kitty.png)
 ![Hello, i am kitty](https://github.com/atooy/Ingress/blob/master/Mission/Hello%2C%20i%20am%20kitty.png)
-6. [First snow in NUPT](https://github.com/atooy/Ingress/blob/master/Mission/First%20snow%20in%20NUPT.png)
+6. [First snow in NUPT](https://github.com/atooy/Ingress/blob/master/Mission/First-Snow-in-NUPT/README.md)
 ![First snow in NUPT](https://github.com/atooy/Ingress/blob/master/Mission/First%20snow%20in%20NUPT.png)
 7. [NJU Jingwen activity center](https://github.com/atooy/Ingress/blob/master/Mission/NJU%20Jingwen%20activity%20center.png)
 ![NJU Jingwen activity center](https://github.com/atooy/Ingress/blob/master/Mission/NJU%20Jingwen%20activity%20center.png)
